@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map For OCL_Flexy2
+#######################################
+ 
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ 
+OCL_Flexy2				KEYWORD1
+PIDController			KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin					KEYWORD2 
+calibrate				KEYWORD2
+setFanSpeedPerc			KEYWORD2
+setFanSpeedNorm			KEYWORD2
+setFanSpeedRPM			KEYWORD2
+getBendPerc				KEYWORD2
+getBendNorm				KEYWORD2
+getUserInputLPerc		KEYWORD2
+getUserInputRPerc		KEYWORD2
+getUserInputLNorm		KEYWORD2
+getUserInputRNorm		KEYWORD2
+initFilter				KEYWORD2
+applyFilter				KEYWORD2
+setProportionalGain		KEYWORD2
+setIntegralGain			KEYWORD2
+setDerivativeGain		KEYWORD2
+setInitialConditions	KEYWORD2
+setADCSamples			KEYWORD2
+setDelaySamples			KEYWORD2
+saturation				KEYWORD2
+reset					KEYWORD2
+compute					KEYWORD2
+printInt2Display		KEYWORD2
+readADC					KEYWORD2
+getADC					KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
